@@ -8,7 +8,7 @@
 - finally run `main.py` to get email of connections. It can be found in `Outputs/outputs.json`
 
 ## Few things to note:
-
+ 
 * Currently only linkedin scraping works
 * selenium is used to scrape data.
 * google scraping is under process
